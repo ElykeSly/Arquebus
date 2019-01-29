@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "   ",
+        "SSL",
+        "   "
+    ],
+    
+    "key":
+    {
+        "S":{"item": "minecraft:stick"},
+        "L":{
+        	
+        	"item": "minecraft:log",
+        	"data": 1
+        	}
+        
+    },
+    
+    "result":
+    {
+        "item": "msfja:stock_rifle",
+        "count": 1
+    }
+}

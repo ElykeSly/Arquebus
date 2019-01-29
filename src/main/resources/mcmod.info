@@ -1,0 +1,16 @@
+[
+{
+  "modid": "msfja",
+  "name": "Arquebus",
+  "description": "A mod that focuses on muzzleloading weapons. For when the bow is not enough but conventional weapons are too much.",
+  "version": "1.0.0119",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["MrSlyFoxJr"],
+  "credits": "Huge thanks to the people on the ModDevCafe discord especially to the admin bois. Without them answering my dumb questions this wouldn't be possible",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

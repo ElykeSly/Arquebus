@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "   ",
+        "III",
+        " NI"
+    ],
+    
+    "key":
+    {
+        "I":{"item": "minecraft:iron_ingot"},
+        "N":{"item": "minecraft:iron_nugget"}
+        
+    },
+    
+    "result":
+    {
+        "item": "msfja:barrel_rifle",
+        "count": 1
+    }
+}

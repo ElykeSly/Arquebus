@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "   ",
+        "BPS",
+        "   "
+    ],
+    
+    "key":
+    {
+        "S":{"item": "msfja:stock_pistol"},
+        "B":{"item": "msfja:barrel_rifle_short"},
+        "P":{"item": "msfja:part_flintlock"}
+        
+    },
+    
+    "result":
+    {
+        "item": "msfja:flintlock_pistol",
+        "count": 1
+    }
+}

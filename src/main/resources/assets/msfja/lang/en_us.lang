@@ -1,0 +1,16 @@
+itemGroup.tab_arquebus=Arquebus
+item.ammo_musket.name=Musket Ball
+item.ammo_blunderbuss.name=Grapeshot
+
+item.part_flintlock.name=Flintlock Mechanism
+
+item.stock_rifle.name=Wooden Stock
+item.stock_pistol.name=Pistol Grip
+
+item.barrel_rifle.name=Long Barrel
+item.barrel_rifle_short.name=Short Barrel
+item.barrel_blunderbuss.name=Flared Barrel
+
+item.flintlock_musket.name=Flintlock Musket
+item.flintlock_pistol.name=Flintlock Pistol
+item.flintlock_blunderbuss.name=Flintlock Blunderbuss

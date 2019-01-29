@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " I ",
+        " G ",
+        " P "
+    ],
+    
+    "key":
+    {
+        "I":{"item": "minecraft:iron_nugget"},
+        "G":{"item": "minecraft:gunpowder"},
+        "P":{"item": "minecraft:paper"}
+        
+    },
+    
+    "result":
+    {
+        "item": "msfja:ammo_musket",
+        "count": 1
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "   ",
+        "III",
+        "NNI"
+    ],
+    
+    "key":
+    {
+        "I":{"item": "minecraft:iron_ingot"},
+        "N":{"item": "minecraft:iron_nugget"}
+        
+    },
+    
+    "result":
+    {
+        "item": "msfja:barrel_blunderbuss",
+        "count": 1
+    }
+}

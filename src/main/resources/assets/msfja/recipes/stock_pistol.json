@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "   ",
+        " SW",
+        "  S"
+    ],
+    
+    "key":
+    {
+        "S":{"item": "minecraft:stick"},
+        "W":{
+        	"item": "minecraft:wooden_slab",
+        	"data": 1
+        	}
+    },
+    
+    "result":
+    {
+        "item": "msfja:stock_pistol",
+        "count": 1
+    }
+}
