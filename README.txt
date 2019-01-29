@@ -7,4 +7,5 @@ Things that are done:
 
 Things left to do:
 -Make guns fire
--Animate guns like the vanilla bow
+-Animate guns like the vanilla bow using provided models (_0 to _4)
+
